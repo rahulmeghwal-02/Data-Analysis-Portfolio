@@ -8,7 +8,7 @@ MCA Student · Data Analyst in Progress · Python Enthusiast 🐍
 
 [![GitHub](https://img.shields.io/badge/GitHub-rahulmeghwal--02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulmeghwal-02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Meghwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-meghwal-632ab9267)
-[![Instagram](https://img.shields.io/badge/Instagram-raahull.20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/am.rahul.69/))
+[![Instagram](https://img.shields.io/badge/Instagram-am.rahul.69-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/am.rahul.69/))
 
 </div>
 
@@ -157,7 +157,7 @@ Explore my Python and Data Science repositories:
 
 [![GitHub](https://img.shields.io/badge/GitHub-rahulmeghwal--02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulmeghwal-02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Meghwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-meghwal-632ab9267)
-[![Instagram](https://img.shields.io/badge/Instagram-raahull.20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/am.rahul.69/)
+[![Instagram](https://img.shields.io/badge/Instagram-am.rahul.69-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/am.rahul.69/)
 
 </div>
 
