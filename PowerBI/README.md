@@ -23,7 +23,7 @@ A dashboard analyzing video game sales/performance data.
 - **Objective:** Identify sales trends across platforms, genres, and regions.
 - **Process:** Imported and cleaned game sales data, created calculated measures with DAX, and built visuals to compare performance.
 - **Key Insights:** *(e.g. top-selling genre, best-performing region/platform)*
-- 📄 *(add link to PDF export once filenames are confirmed)*
+- 📄 [view PDF report](./GameData%20Project%20-%202/Games%20Analysis%20Project.pdf)
 
 ### 📂 [Learnings](./Learnings)
 Notes, practice files, and resources from learning Power BI (DAX formulas, Power Query steps, visualization techniques, etc.) — not a standalone project, but a reference folder documenting the learning process.
