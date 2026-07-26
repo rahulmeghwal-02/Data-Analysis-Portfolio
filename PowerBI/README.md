@@ -17,6 +17,14 @@ An interactive dashboard analyzing survey response data.
 - **Process:** Cleaned raw survey data in Power Query, modeled relationships, and built visuals to summarize responses.
 - 📄 [View PDF report](./Survey%20Project%20-%201/DataProfessional_Survey_Project.pdf)
 
+### 2. [GameData Project](./GameData%20Project%20-%202)
+A dashboard analyzing video game sales/performance data.
+- **Files:** `.pbix` dashboard · `.pdf` export (source data in [`../datasets`](../datasets))
+- **Objective:** Identify sales trends across platforms, genres, and regions.
+- **Process:** Imported and cleaned game sales data, created calculated measures with DAX, and built visuals to compare performance.
+- **Key Insights:** *(e.g. top-selling genre, best-performing region/platform)*
+- 📄 *(add link to PDF export once filenames are confirmed)*
+
 ### 📂 [Learnings](./Learnings)
 Notes, practice files, and resources from learning Power BI (DAX formulas, Power Query steps, visualization techniques, etc.) — not a standalone project, but a reference folder documenting the learning process.
 
