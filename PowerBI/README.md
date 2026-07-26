@@ -15,7 +15,6 @@ An interactive dashboard analyzing survey response data.
 - **Files:** `DataProfessional_Survey_Project.pbix` · `DataProfessional_Survey_Project.pdf` · `survey_data.xlsx`
 - **Objective:** Explore survey responses to uncover patterns and demographic trends.
 - **Process:** Cleaned raw survey data in Power Query, modeled relationships, and built visuals to summarize responses.
-- **Key Insights:** *(add 2–3 bullet takeaways here, e.g. most common response category, notable demographic trend)*
 - 📄 [View PDF report](./Survey%20Project%20-%201/DataProfessional_Survey_Project.pdf)
 
 ### 📂 [Learnings](./Learnings)
