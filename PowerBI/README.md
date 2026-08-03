@@ -25,6 +25,14 @@ A dashboard analyzing video game sales/performance data.
 - **Key Insights:** *(e.g. top-selling genre, best-performing region/platform)*
 - 📄 [view PDF report](./GameData%20Project%20-%202/Games%20Analysis%20Project.pdf)
 
+### 3. [Netflix Data Project](./Netflix%20Data%20Project%20-%203)
+A dashboard exploring Netflix's content catalog.
+- **Files:** `.pbix` dashboard · `.pdf` export (source data in [`../datasets`](../datasets))
+- **Objective:** Analyze trends in content type, release year, genre, and country of production.
+- **Process:** Cleaned the Netflix titles dataset in Power Query and built an interactive report with slicers for genre, year, and type.
+- **Key Insights:** *(e.g. movies vs. TV shows split, top content-producing countries, growth by year)*
+- 📄 [view PDF report](./Netflix%20Data%20Project%20-%203/netflix_project_A.pdf)
+
 ### 📂 [Learnings](./Learnings)
 Notes, practice files, and resources from learning Power BI (DAX formulas, Power Query steps, visualization techniques, etc.) — not a standalone project, but a reference folder documenting the learning process.
 
